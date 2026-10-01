@@ -1,6 +1,6 @@
 {
   "name": "@domwatson/qwik-testing-library",
-  "version": "2.0.0-beta.1",
+  "version": "2.0.0-beta.2",
   "description": "Simple and complete Qwik testing utilities that encourage good testing practices.",
   "repository": "https://github.com/ianlet/qwik-testing-library",
   "homepage": "https://github.com/ianlet/qwik-testing-library",
